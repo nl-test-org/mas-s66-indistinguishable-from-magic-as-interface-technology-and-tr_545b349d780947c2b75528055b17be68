@@ -1,0 +1,28 @@
+---
+course_id: mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015
+layout: course_section
+menu:
+  leftnav:
+    identifier: b5151499c9104ba25251d2ec46eef82d
+    name: Assignments
+    weight: 40
+title: Assignments
+type: course
+uid: b5151499c9104ba25251d2ec46eef82d
+
+---
+
+| SES # | ASSIGNMENTS |
+| --- | --- |
+| 1 | Pick 1 or 2 classic sleight of hand illusions. Learn and practice it. |
+| 2 |  {{< br >}}{{< br >}} **We learn a trick** {{< br >}}{{< br >}} *   Pick a classic sleight of hand illusion from the list below. Learn and practice it. Be ready to perform it by the next session.{{< br >}}*   Record a short video of yourself practicing your illusion.{{< br >}}*   Become aware and count how many times you hear the word "magic" used in your environment. Note in what context it is used. {{< br >}}{{< br >}} {{< h 3 >}}Materials Needed for this Assignment:{{< /h >}} {{< br >}}{{< br >}} Berglas, Marvin. _110 Amazing Magic Tricks with Everyday Objects_. Marvin's Magic. {{< br >}}{{< br >}} *   "The Travelling Coin." p. 32.{{< br >}}*   "Turn Over Card." p. 16.{{< br >}}*   "Where Are The Matches?" p. 34. {{< br >}}{{< br >}} OR {{< br >}}{{< br >}} Pogue, David. _Magic for Dummies_. For Dummies, 1998. ISBN: 9780764551017. {{< br >}}{{< br >}} *   "The Shuffling Lesson." p. 207. {{< br >}}{{< br >}}  |
+| 3 | Perform your trick then engage in class critique and discussion. Begin to amplify your Trick++: Take a standard magic trick and augment it in some way using technology or neuroscience to create a "Marco Tempest style" cyber-illusion. |
+| 4 | No design exercise for this session. Document yourself developing and practicing your Trick++. |
+| 5 |  {{< br >}}{{< br >}} Start developing your midterm project. The midterm can be a substantial refinement of the Trick++ assignment or it could be something completely new. {{< br >}}{{< br >}} [Creating a Dungeons & Dragons Character Assignment Guidelines (PDF)]({{< baseurl >}}/sections/assignments/mitmas_s66s15_creatngdd) {{< br >}}{{< br >}} {{< h 3 >}}Materials Needed for this Assignment:{{< /h >}} {{< br >}}{{< br >}} *   Dungeons & Dragons Character Sheet, Fifth Edition. Click "[Fifth Edition Character Sheets](https://dnd.wizards.com/articles/features/character_sheets)" to download. Use the file named "DnD\_5E\_CharacterSheet - Form Fillable.pdf".{{< br >}}*   Wizards RPG Team. _Dungeons & Dragons Player's Handbook_. 5th ed. Wizards of the Coast, 2014. ISBN: 9780786965601. {{< br >}}{{< br >}} _Student Work Example_ {{< br >}}{{< br >}} [Creating a Dungeons & Dragons Character Assignment (PDF)]({{< baseurl >}}/sections/assignments/mitmas_s66s15_ddcharacter) – Used with permission. Courtesy of an MIT student. {{< br >}}{{< br >}}  |
+| 6 | **Dragon Rising Game  {{< br >}}**  {{< br >}}This game design assignment is inspired by the study of Dungeons & Dragons and its [game mechanics and history](https://speakerdeck.com/gregab/the-pre-history-of-d-and-d-play-simulation-and-storytelling-in-1500-years-of-war-games). The goal of this group assignment is to give students experience using game mechanics to depict a particular storytelling idea or setting.  {{< br >}}_  {{< br >}}Guidelines:  {{< br >}}_Design a game based on the idea of training a dragon. Feel free to use dice, cards, coins, role-playing, and any other game ingredients to do this. Be sure to include iterative play-testing as a part of your process. {{< br >}}{{< br >}} Apply the principles of this week's lecture to your midterm project. {{< br >}}{{< br >}}  |
+| 7 | No design exercise for this session. Continue developing your midterm project. |
+| 8 | No design exercise for this session. Midterm project and presentation due this session. |
+| 9 |  {{< br >}}{{< br >}} **Build Your Own Markov Chain Bot** {{< br >}}{{< br >}} Expanding on an in-class discussion of Twitter bots, this assignment shows current creative uses to which generative text is incorporated in social media. For this assignment, build your own Twitter bot using [this tutorial](http://atduskgreg.github.io/bother/ide.html), which was created using an open source software tool called Bother. {{< br >}}{{< br >}} For more information on the source code of this tutorial and examples of interesting bots, read [Bother – A One-Page Framework for Learning Bot-Making](https://github.com/atduskgreg/bother). {{< br >}}{{< br >}} Create your final project proposal. {{< br >}}{{< br >}}  |
+| 10 | No design exercise for this session. |
+| 11 | Dry run of final projects. |
+| 12 | No design exercise for this session. Final project and presentation due this session.  {{< br >}}  {{< br >}}_Student Work Example_   {{< br >}}{{< br >}} [Emergence &#124; A trick in 3 Parts](http://magic.jonathanbobrow.com/?p=95) – final project by Jonathan Bobrow  {{< br >}}{{< br >}} For my final project, I wanted to string a narrative between the disparate projects I had been working on throughout the semester. A growing fascination with emergent behavior and biologically inspired interactions led me to develop some simple tools for exploring these phenomena, both for real investigation as well as some fun with a supposed investigation. When mentioning emergence with regard to design, behavior, or systems, I am always asked for clarification, so it only seemed natural to discuss the concept of emergence and have some fun with it. {{< br >}}{{< br >}}
